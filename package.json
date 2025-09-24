@@ -1,0 +1,22 @@
+{
+  "name": "katatdd",
+  "version": "1.0.0",
+  "description": "Repo para kata TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@esfera:grupo-esfera/capacitacion/recursos/kata-tddd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.27.1",
+    "@types/jest": "^30.0.0",
+    "jest": "^30.1.3",
+    "ts-jest": "^29.4.4",
+    "typescript": "^5.9.2"
+  }
+}
