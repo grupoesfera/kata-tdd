@@ -10,3 +10,13 @@
 
 Dependiendo de cuantos seamos armamos salitas o nos quedamos en la principal. La idea es ir resolviendo en conjunto usando live share o bien,
 si el setup se complica, alguien presenta y hace de driver.
+
+## Setup
+
+### Instalar dependencias
+
+`npm install`
+
+### Ejecutar las pruebas
+
+`npm run test`
