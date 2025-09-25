@@ -54,7 +54,8 @@ export class Tijera implements Mano {
 
 
     contraPapel() : Resultado{
-        return Resultado.PERDISTE
+        return Resultado.PERDISTE 
+        //coment
     }
 }
 
